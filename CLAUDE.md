@@ -17,6 +17,7 @@ Read `docs/PROJECT_STATE.md` next — it says what is live and what is owed.
 
 - **Next.js 14** (Pages Router) · **React 18** · **TypeScript** ·
   **@notionhq/client** · hosted on **Vercel**.
+- Live: https://hardware-provisioner.vercel.app
 - Repo: `Kai-waffle/operations-hardware-provisioner`. Vercel auto-deploys on
   every push to `main` — **a push is a release.**
 - Vercel blocks deploys when the commit author email is not a verified GitHub

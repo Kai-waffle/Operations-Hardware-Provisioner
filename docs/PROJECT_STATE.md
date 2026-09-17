@@ -11,8 +11,9 @@ standard; no code changed)*
   placement and cabling → infrastructure → the order.
 - Two outputs: copy the order text, or send it to a Notion orders database.
 - Install grade: LOW 1 h / MEDIUM 1.5 h / HIGH 2 h. Rule in `CLAUDE.md`.
-- Hosted on Vercel, auto-deploys from `main`. **Live URL: not recorded —
-  take it from the Vercel dashboard and write it here.**
+- Hosted on Vercel, auto-deploys from `main`. **Live URL:
+  https://hardware-provisioner.vercel.app** (confirmed loading 18 Sep 2026,
+  after the docs push).
 
 ## What is owed
 
