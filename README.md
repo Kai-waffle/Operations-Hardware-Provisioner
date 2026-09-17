@@ -139,20 +139,21 @@ Your app will now be live at `https://your-project.vercel.app`!
 ## Project Structure
 
 ```
-Hardware-Provisioner/
+operations-hardware-provisioner/
+├── CLAUDE.md                      # Agent guide: rules, code map, environment variables
+├── docs/
+│   ├── PROJECT_STATE.md           # What is live, what is owed, decisions
+│   ├── plans/                     # PLAN-YYYY-MM-DD-topic.md
+│   ├── handovers/                 # HANDOVER-YYYY-MM-DD.md
+│   └── reference/
+│       └── SPEC-v4.1.md           # Full product spec
 ├── pages/
-│   ├── api/
-│   │   └── notion/
-│   │       └── create-order.ts    # Notion API endpoint
+│   ├── api/notion/create-order.ts # Notion API endpoint
 │   ├── _app.tsx                   # Next.js app wrapper
 │   └── index.tsx                  # Main provisioner page
 ├── types/
 │   └── provisioner.ts             # TypeScript type definitions
-├── .env.example                   # Environment variables template
-├── .gitignore                     # Git ignore rules
-├── next.config.js                 # Next.js configuration
-├── package.json                   # Dependencies
-├── tsconfig.json                  # TypeScript configuration
+├── .env.example                   # Environment variable names (no values)
 └── README.md                      # This file
 ```
 
