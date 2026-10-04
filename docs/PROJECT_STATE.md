@@ -1,5 +1,7 @@
 # Hardware Provisioner — project state
 
+> **26 Sep 2026, rechecked 4 Oct against operating structure v0.6 — who uses it:** CS runs the Provisioner **before the quote**, with the site checklist (rule 2); the AM, who sells, owns the quote. The Kiosk gap (PRIORITIES item 25) still stands.
+
 *Last updated: 18 Sep 2026 (file created — repo brought onto the workspace
 standard; no code changed)*
 
@@ -52,5 +54,5 @@ standard; no code changed)*
 ## Where the history is
 
 - This repo's git log (Dec 2025).
-- `~/Desktop/Waffle-Operations/Projects/Hardware-Provisioner/Archive` —
+- `~/Waffle-Operations/Projects/Hardware-Provisioner/Archive` —
   15 HTML prototypes and the old handovers. Frozen.

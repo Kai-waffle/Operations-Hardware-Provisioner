@@ -100,4 +100,4 @@ around it.
   in `docs/plans/PLAN-YYYY-MM-DD-topic.md`, handovers in `docs/handovers/`,
   long-lived explainers in `docs/reference/`.
 - History from before this repo (15 HTML prototypes, old handovers) is frozen
-  in `~/Desktop/Waffle-Operations/Projects/Hardware-Provisioner/Archive`.
+  in `~/Waffle-Operations/Projects/Hardware-Provisioner/Archive`.
